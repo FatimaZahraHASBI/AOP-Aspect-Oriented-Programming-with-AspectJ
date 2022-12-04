@@ -1,7 +1,7 @@
 # AOP-Aspect-Oriented-Programming-with-AspectJ
 ## AOP Aspect Oriented Programming with AspectJ
-<br><br>
-On souhaite créer une application qui permet de gérer des comptes bancaires stockés en mémoire dans une collection de type Map.<br> 
+<br>
+Cette application permet de gérer des comptes bancaires stockés en mémoire dans une collection de type Map.<br> 
 Chaque compte est défini par son code et son solde.<br><br>
 ▸Les exigences fonctionnelle de l’application sont:<br>
 • Ajouter un compte<br>
