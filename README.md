@@ -46,7 +46,9 @@ L'application de test :<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/205518116-5a852711-1b4c-4711-a641-acccf5a1b777.png)<br>
 
 ## L'ajout des Aspects 
-
+L'aspect de journalisation <br><br>
+![image](https://user-images.githubusercontent.com/63150702/205518405-e2f3d922-4fe7-45ae-8a4a-e86486f5ac9b.png)
+<br><br>
 
 
 
