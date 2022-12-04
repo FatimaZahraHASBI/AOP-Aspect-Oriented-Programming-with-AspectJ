@@ -22,14 +22,37 @@ chaque méthode <br>
 ## Configuration de projet
 
 Comme première étape il faut créer un projet Maven, et ajouter la dépendance suivante dans le fichier pom.xml<br><br>
-![image](https://user-images.githubusercontent.com/63150702/205515278-14a6de8a-cdcb-443f-8875-e38ff5fcf1bd.png)
+![image](https://user-images.githubusercontent.com/63150702/205515278-14a6de8a-cdcb-443f-8875-e38ff5fcf1bd.png)<br>
 
 Par la suite il faut partir au structure de projet à partir le menu en haut et ajouter une facet :<br><br>
-![image](https://user-images.githubusercontent.com/63150702/205515342-b24a509d-cee4-41e3-8506-a98bbab05d0f.png)
+![image](https://user-images.githubusercontent.com/63150702/205515342-b24a509d-cee4-41e3-8506-a98bbab05d0f.png)<br>
 
 Maintenant on a la possibilité de créer un aspect :<br><br>
-![image](https://user-images.githubusercontent.com/63150702/205515564-0800e52f-e7cc-4e1b-ad01-cd9630d4b813.png)
+![image](https://user-images.githubusercontent.com/63150702/205515564-0800e52f-e7cc-4e1b-ad01-cd9630d4b813.png)<br>
 
-## Implémentation de projet
-Lien de la vidéo sur Youtube de Professeur Mr YOUSSFI Mohamed pour implémenter ce projet : <br>
-https://www.youtube.com/watch?v=8dPXOKR3AN8
+## Implémentation du projet sans aspects
+On va tout d'abord créer une simple application sans aspects<br>
+<br>
+La classe Compte :<br>
+![image](https://user-images.githubusercontent.com/63150702/205517910-92b85b08-3e0c-4eb2-a19e-2bc78fde2077.png)<br>
+<br>
+L'interface IMetierBanque qui contient la déclaration des méthodes :<br><br>
+![image](https://user-images.githubusercontent.com/63150702/205517977-b6d6b9f4-934b-41b6-838c-4f9ca19cc605.png)<br>
+<br>
+L'implémentation de l'interface:<br><br>
+![image](https://user-images.githubusercontent.com/63150702/205518029-5cfcce8f-b7b8-47a8-9b41-2c7c57080381.png)<br>
+<br>
+L'application de test :<br><br>
+![image](https://user-images.githubusercontent.com/63150702/205518116-5a852711-1b4c-4711-a641-acccf5a1b777.png)<br>
+
+## L'ajout des Aspects 
+
+
+
+
+
+
+
+** Lien de la vidéo sur Youtube de Professeur Mr YOUSSFI Mohamed pour implémenter ce projet : **<br>
+** https://www.youtube.com/watch?v=8dPXOKR3AN8 **
+
