@@ -15,7 +15,7 @@ public class Application {
         long code = scanner.nextLong();
         System.out.print("Donner le solde initiale du compte :");
         double solde = scanner.nextDouble();
-        IMetierBanque metierBanque = new IMetierBanqueImpl();
+        IMetierBanqueImpl metierBanque = new IMetierBanqueImpl();
         metierBanque.addCompte(new Compte(code, solde));
         while (true) {
             System.out.print("Type Opération:");
